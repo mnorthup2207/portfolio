@@ -27,3 +27,5 @@ function git() {
 };
 linked.addEventListener('click', linkedIn)
 github.addEventListener('click', git)
+
+// nav open new tabs
