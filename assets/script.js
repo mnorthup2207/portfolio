@@ -6,6 +6,10 @@ var contacts = document.querySelector('.contNav')
 var linked = document.querySelector('.linked');
 var pdf = document.querySelector('.resume');
 var github = document.querySelector('.github');
+var home =document.querySelector('.home')
+var portfolio =document.querySelector('.portfolio')
+var contacts =document.querySelector('.contacts')
+
 
 // Nav Bar
 function toggleDown() {
@@ -29,3 +33,15 @@ linked.addEventListener('click', linkedIn)
 github.addEventListener('click', git)
 
 // nav open new tabs
+// function homePage() {
+//     window.open('index.html')
+// };
+// function portfolioPage() {
+//     window.open('portfolio.html')
+// };
+// function contactsPage() {
+//     window.open('contacts.html')
+// };
+// home.addEventListener('click', homePage)
+// portfolio.addEventListener('click', portfolioPage)
+// contacts.addEventListener('click', contactsPage)

@@ -73,3 +73,9 @@ body{
     color: black;
     cursor: pointer;
 }
+.formDiv{
+    position: absolute;
+    top:20%;
+    left:30%;
+    width: 35%;
+}
