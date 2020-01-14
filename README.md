@@ -8,8 +8,7 @@ The function of my portfolio is to display my knowledge in  full stack web devel
 
 
 ## Link to Deployed Product
-
-
+https://mnorthup2207.github.io/portfolio/.
 
 ## Credit
 Used font awesome for the save icon.
