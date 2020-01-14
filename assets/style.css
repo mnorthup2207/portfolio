@@ -88,11 +88,11 @@ a:hover{
     cursor: pointer;
 }
 .blurb  a{
-    color: black;
+    color: white;
 }
-/* .blurb a:hover{
+.blurb a:hover{
     color: grey;
-} */
+}
 /* contact page */
 .formDiv{
     left:30%;
