@@ -106,3 +106,27 @@ a:hover{
 .btn:hover{
     background-color: black;
 }
+
+/* media size css */
+@media screen and (max-width: 500px) {
+    .headingDiv{
+        left: 5%;
+    }
+    .blurb{
+        top: 25%;
+        width: 80%;
+    }
+    body{
+        background-color: black;
+    }
+    .cardEl{
+        top: 25%;
+    }
+    .formDiv{
+        left: 15%;
+        width: 70%;
+    }
+    .rotateimg90{
+        z-index: -10;
+    }
+}
