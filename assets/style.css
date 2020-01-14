@@ -68,11 +68,17 @@ a:hover{
     z-index: 10;
 }
 .blurb{
-    color: white;
+    color: black;
     left: 15%;
     position: absolute;
     top: 20%;
     
+}
+.paraEl{
+    box-sizing: border-box;
+    background-color: white;
+    border-radius: 1%;
+    padding: 3%;
 }
 .icon{
     margin-left: 5%;
@@ -128,5 +134,8 @@ a:hover{
     }
     .rotateimg90{
         z-index: -10;
+    }
+    .paraEl{
+        padding: 10%;
     }
 }
