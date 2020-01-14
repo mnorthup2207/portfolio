@@ -13,7 +13,6 @@ var contacts =document.querySelector('.contacts')
 
 // Nav Bar
 function toggleDown() {
-    console.log('yippe');
     navigation.classList.toggle('open');
 };
 heading.addEventListener('click', toggleDown)
@@ -32,16 +31,3 @@ function git() {
 linked.addEventListener('click', linkedIn)
 github.addEventListener('click', git)
 
-// nav open new tabs
-// function homePage() {
-//     window.open('index.html')
-// };
-// function portfolioPage() {
-//     window.open('portfolio.html')
-// };
-// function contactsPage() {
-//     window.open('contacts.html')
-// };
-// home.addEventListener('click', homePage)
-// portfolio.addEventListener('click', portfolioPage)
-// contacts.addEventListener('click', contactsPage)
