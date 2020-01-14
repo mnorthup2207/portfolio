@@ -18,16 +18,3 @@ function toggleDown() {
 heading.addEventListener('click', toggleDown)
 
 
-// Social Media and resume
-function linkedIn() {
-    window.open("https://www.linkedin.com/in/mccabe-northup-2b76b885/", "_blank")
-};
-function resume() {
-    window.open('', "_blank")
-};
-function git() {
-    window.open('https://github.com/mnorthup2207', "_blank")
-};
-linked.addEventListener('click', linkedIn)
-github.addEventListener('click', git)
-

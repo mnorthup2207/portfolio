@@ -68,18 +68,18 @@ a:hover{
     z-index: 10;
 }
 .blurb{
-    color: black;
+    color: white;
     left: 15%;
     position: absolute;
     top: 20%;
     
 }
-.paraEl{
+/* .paraEl{
     box-sizing: border-box;
     background-color: white;
     border-radius: 1%;
     padding: 3%;
-}
+} */
 .icon{
     margin-left: 5%;
 }
@@ -87,6 +87,12 @@ a:hover{
     color: black;
     cursor: pointer;
 }
+/* .blurb  a{
+    color: black;
+}
+.blurb a:hover{
+    color: grey;
+} */
 /* contact page */
 .formDiv{
     left:30%;
