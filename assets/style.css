@@ -79,3 +79,25 @@ body{
     left:30%;
     width: 35%;
 }
+.cardEl{
+    position: absolute;
+    top: 20%;
+    color: black;
+    left: 10%;
+}
+.imgPort{
+    height: 200%;
+}
+.btn{
+    background-color: grey;
+    border: white;
+}
+.btn:hover{
+    background-color: black;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: grey;
+}
